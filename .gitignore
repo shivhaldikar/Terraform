@@ -1,0 +1,5 @@
+AWS/WebServer1/id_rsa.ppk
+AWS/WebServer1/terraform.tfvars
+AWS/WebServer1/.terraform.tfstate.lock.info
+AWS/WebServer1/.terraform.lock.hcl
+AWS/WebServer1/.terraform/providers/registry.terraform.io/hashicorp/aws/3.56.0/windows_amd64/terraform-provider-aws_v3.56.0_x5.exe
